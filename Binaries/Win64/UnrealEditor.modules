@@ -1,0 +1,8 @@
+{
+	"BuildId": "37670630",
+	"Modules": 
+	{
+		"AnsharStudios_UITask": "UnrealEditor-AnsharStudios_UITask.dll",
+		"UI_MVVM_Example": "UnrealEditor-UI_MVVM_Example.dll"
+	}
+}
